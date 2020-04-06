@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Arcolinux-ZenCARS Welcome App
+GenericName=Arcolinux-ZenCARS Welcome App
+X-GNOME-FullName=Arcolinux-ZenCARS Welcome App
+Comment=Welcome Application for Arcolinux-ZenCARS Installs
+Exec=/usr/local/bin/arcolinux-welcome-app
+Icon=arcolinux-hello
+Terminal=false
+Type=Application
+Categories=GTK;Settings;Security;X-GNOME-Settings-Panel;X-GNOME-SystemSettings;X-Unity-Settings-Panel;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;
+Keywords=welcome;tool;
+StartupNotify=true

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Install ArcoLinux-ZenCARS
+Comment=Installer for ArcoLinux-ZenCARS
+Categories=GTK;Settings;Security;X-GNOME-Settings-Panel;X-GNOME-SystemSettings;X-Unity-Settings-Panel;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;Utility;System
+Exec=pkexec calamares
+Icon=arco-calamares
