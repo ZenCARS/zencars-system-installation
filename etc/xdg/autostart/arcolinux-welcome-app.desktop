@@ -1,8 +1,8 @@
 [Desktop Entry]
-Name=Arcolinux-ZenCARS Welcome App
-GenericName=Arcolinux-ZenCARS Welcome App
-X-GNOME-FullName=Arcolinux-ZenCARS Welcome App
-Comment=Welcome Application for Arcolinux-ZenCARS Installs
+Name=ZenCARS Welcome App
+GenericName=ZenCARS Welcome App
+X-GNOME-FullName=ZenCARS Welcome App
+Comment=Welcome Application for Arcolinux Installs
 Exec=/usr/local/bin/arcolinux-welcome-app
 Icon=arcolinux-hello
 Terminal=false
